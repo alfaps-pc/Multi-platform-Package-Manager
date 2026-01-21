@@ -49,11 +49,4 @@ Multi-platform package manager GUI tool with dark/light mode and multilingual su
 
 MIT License - Feel free to use and modify!
 
-## 👤 Author
-
-Created by **Claude AI**  
-GitHub: [@your-username](https://github.com/your-username)
-
----
-
 ⭐ **Star this repo if you find it useful!**
