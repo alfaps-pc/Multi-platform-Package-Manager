@@ -1,52 +1,99 @@
 # 🚀 Package Manager Pro
 
-Multi-platform package manager GUI tool with dark/light mode and multilingual support.
+A web-based, multi-platform **package manager command generator** with dark/light mode and multilingual support.
 
-Çok platformlu, karanlık/aydınlık mod ve çoklu dil desteğine sahip paket yöneticisi aracı.
+Karanlık/aydınlık mod ve çoklu dil desteğine sahip, çok platformlu **paket yöneticisi komut üretme aracı**.
+
+---
 
 ## ✨ Features / Özellikler
 
-- 🌐 **5 Platform Support** - APT, DNF, Arch (pacman/yay), Flatpak, Windows (winget/chocolatey)
-- 🔍 **Search & Filter** - 13 categories, 200+ packages per platform
-- 🌙 **Dark/Light Mode** - Eye-friendly themes
-- 🌍 **TR/EN Language** - Turkish and English support
-- ⭐ **Favorites** - Mark your frequently used packages
-- 📜 **Command History** - Last 10 commands saved
-- 📋 **One-Click Copy** - Copy commands to clipboard
-- 🎨 **Modern UI** - Clean, professional design
+- 🌐 **Multi-Platform Support**  
+  APT, DNF, Arch (pacman / yay), Flatpak, Windows (winget / chocolatey)
+
+- 🔍 **Search & Filter**  
+  Category-based package browsing with fast search
+
+- 🌙 **Dark / Light Mode**  
+  Eye-friendly modern themes
+
+- 🌍 **TR / EN Language Support**  
+  Turkish and English UI
+
+- ⭐ **Favorites (Session-based)**  
+  Quickly mark packages during usage
+
+- 📜 **Command History**  
+  Stores recently generated commands (up to 10)
+
+- 📋 **One-Click Copy**  
+  Copy generated commands to clipboard
+
+- 🎨 **Modern UI**  
+  Clean, responsive, and professional interface
+
+---
 
 ## 🖥️ Supported Platforms
 
-| Platform | Package Manager | Packages |
-|----------|----------------|----------|
-| Ubuntu/Debian | APT | 200+ |
-| Fedora/RHEL | DNF | 190+ |
-| Arch Linux | Pacman/Yay | 220+ |
-| Universal Linux | Flatpak | 180+ |
-| Windows 10/11 | Winget/Chocolatey | 230+ |
+| Platform | Package Manager |
+|--------|----------------|
+| Ubuntu / Debian | APT |
+| Fedora / RHEL | DNF |
+| Arch Linux | Pacman / Yay |
+| Universal Linux | Flatpak |
+| Windows 10 / 11 | Winget / Chocolatey |
+
+> ⚠️ **Note:**  
+> Package availability may vary depending on distribution, repositories, or external sources.  
+> This tool generates commands but does **not** execute them.
+
+---
 
 ## 🚀 Usage / Kullanım
 
-1. Open `index.html` in your browser
-2. Select your platform
-3. Choose packages
-4. Copy or execute command
+1. Open `index.html` in your browser  
+2. Select your platform and package manager  
+3. Choose an action and packages  
+4. Copy the generated command and run it manually in your terminal
+
+---
 
 ## 📦 Categories / Kategoriler
 
-- Browsers, Development, Media, Office, Communication
-- Graphics/Design, System Tools, Games, Utilities
-- Database, Security, Network Tools, Education
+- Browsers  
+- Development  
+- Media  
+- Office  
+- Communication  
+- Graphics / Design  
+- System Tools  
+- Games  
+- Utilities  
+- Database  
+- Security  
+- Network Tools  
+- Education  
+
+---
 
 ## 🛠️ Technologies
 
-- React 18
-- Tailwind CSS
-- Lucide Icons
-- Babel Standalone
+- React 18  
+- Tailwind CSS  
+- Lucide Icons  
+
+---
+
+## ⚠️ Disclaimer
+
+This project is intended as a **command generation and learning tool**.  
+It does not validate repository availability and does not execute system commands.
+
+---
 
 ## 📝 License
 
-MIT License - Feel free to use and modify!
+MIT License — free to use, modify, and distribute.
 
-⭐ **Star this repo if you find it useful!**
+⭐ If you find this project useful, consider starring the repository.
